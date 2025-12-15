@@ -23,15 +23,15 @@ Perfect for signup forms, address sections, and location-based apps.
 Add this to your package's pubspec.yaml file:
 ```
 dependencies:
-  pdf_viewer:
-    path: ../pdf_viewer  # For local development
+  auto_location_picker:
+    path: ../auto_location_picker  # For local development
 ```
 from git:
 ```
 dependencies:
-  flutter_image_crop:
+  auto_location_picker:
     git:
-      url: https://github.com/yourusername/flutter_image_crop.git  # Your github path
+      url: https://github.com/yourusername/auto_location_picker.git  # Your github path
 ```
 Then run:
 ```
